@@ -14,6 +14,7 @@ public class Average {
 	    System.out.println(avgNum);
 	    
 	    
+	    
 	}
 
 }
