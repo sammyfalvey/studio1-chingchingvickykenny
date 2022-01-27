@@ -12,6 +12,8 @@ public class Average {
 		int n2 = ap.nextInt("The first of two integers to be averaged?");
 	    double avgNum = (n1+n2)/2.0;
 	    System.out.println(avgNum);
+	    
+	    
 	}
 
 }

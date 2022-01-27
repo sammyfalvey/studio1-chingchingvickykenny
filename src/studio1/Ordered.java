@@ -15,6 +15,7 @@ public class Ordered {
 		boolean isOrdered = true;
 		isOrdered =(x < y&&y < z) || (z<y &&y<x);
 		
+		
 		System.out.println(isOrdered);
 		
 	}
